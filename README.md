@@ -1,1 +1,5 @@
-# cici
+[plain]
+openvpn system
+==============
+hdicvpncli   &&   hdicvpnser
+-----------------------------
